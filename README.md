@@ -72,8 +72,17 @@ Screenshots showing the overall flow of the iOS Shortcut, including:
 
 <!-- Add shortcut screenshots here -->
 <img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/9faa88e5-6614-4905-a22c-cadf46dff5e8" />
+
+---
+
 <img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/cbd921d5-42b9-461c-b75c-bc3e44ed59f5" />
+
+---
+
 <img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/a65922b0-5a84-4d19-82bc-9b174a6d9a69" />
+
+---
+
 <img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae96bd8b-ecd1-4b81-9dad-de8774b69c76" />
 
 
