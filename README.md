@@ -72,12 +72,9 @@ Screenshots showing the overall flow of the iOS Shortcut, including:
 
 <!-- Add shortcut screenshots here -->
 <img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/9faa88e5-6614-4905-a22c-cadf46dff5e8" />
-![WhatsApp Image 2026-02-04 at 5 02 31 PM](https://github.com/user-attachments/assets/f9e14ace-9b40-4a35-9d97-070254a2f264)
-![test](https://github.com/user-attachments/assets/4fc11065-8691-4a60-bca6-2c0240c896b3)
-![tt](https://github.com/user-attachments/assets/0b091afb-7972-4396-9a10-9df626dfbe91)
-
-
-
+<img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/cbd921d5-42b9-461c-b75c-bc3e44ed59f5" />
+<img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/a65922b0-5a84-4d19-82bc-9b174a6d9a69" />
+<img width="736" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae96bd8b-ecd1-4b81-9dad-de8774b69c76" />
 
 
 ---
