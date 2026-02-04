@@ -27,6 +27,36 @@ using the Notion REST API.
 - object = "page" → success
 - object = "error" → failure
 
+
+---
+
+## Sample Request Payload
+
+Below is a simplified example of the request body sent to the Notion API.
+All IDs and values are placeholders.
+
+```json
+{
+  "parent": {
+    "database_id": "<DATABASE_ID>"
+  },
+  "properties": {
+    "Name": {
+      "title": [
+        { "text": { "content": "Sample Entry" } }
+      ]
+    },
+    "Amount": {
+      "number": 100
+    },
+    "Account": {
+      "relation": [
+        { "id": "<ACCOUNT_PAGE_ID>" }
+      ]
+    }
+  }
+}
+```
 ## Example Use Case: Expense Tracking
 
 This generic Notion API integration is demonstrated using a personal
